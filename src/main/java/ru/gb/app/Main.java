@@ -1,4 +1,4 @@
-package ru.gb.main;
+package ru.gb.app;
 
 import ru.gb.operation.Action;
 import ru.gb.operation.Decorator;
