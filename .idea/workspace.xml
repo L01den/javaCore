@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5711f96b-29ad-479d-b627-79aee137a321" name="Changes" comment="дз 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework4/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework4/MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework4/MyArraySizeException.java" afterDir="false" />
+    <list default="true" id="5711f96b-29ad-479d-b627-79aee137a321" name="Changes" comment="дз 4">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework5/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework5/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/homework5/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +56,44 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ru.gb.homework4.App">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\java_lesson\javaCore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.gb.homework3.App" />
       <module name="javaCore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.gb.homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.Homework" />
+      <module name="javaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.homework5.Program" />
+      <module name="javaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,6 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Homework" />
         <item itemvalue="Application.ru.gb.homework4.App" />
         <item itemvalue="Application.App" />
       </list>
@@ -119,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686167463140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="дз 4">
+      <created>1686676067884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686676067884</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +178,7 @@
     <MESSAGE value="дз 2" />
     <MESSAGE value="дз 2 правка" />
     <MESSAGE value="дз 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз 3" />
+    <MESSAGE value="дз 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз 4" />
   </component>
 </project>
